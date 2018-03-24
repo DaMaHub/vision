@@ -9,19 +9,19 @@ Distributed web technologies are well suited to meeting some of the challenges o
 
 In general, we subscribe to adopting a modular approach, breaking the problem of FAIR data management down into discrete issues and solutions. This simplifies matters from a technological point of view, but also from the point of view of getting adoption within the existing research landscape.
 
-Our group is actively working on use-cases that bridge the gap between IPFS (and other distributed technologies, e.g. ledgers and smart contracts) and existing scholarly communication infrastructures, from data repositories and linked data to DOIs and ORCIDs.
+Our group is actively working on use-cases that bridge the gap between IPFS (and other distributed technologies, e.g. ledgers and smart contracts) and existing scholarly communication infrastructures, from data repositories and linked data to DOIs [12] and ORCIDs [13].
 
 
 Broadly speaking, our group will work on progressing matters on three fronts:
 
 
-* Firstly we will develop use-cases and prototypes which combine emerging technologies (IPFS, blockchain, DAT, distributed identity) with existing research infrastructure, working towards making research data more FAIR and making research infrastructures simpler, more efficient, and more inherently transparent and trustless.
+* Firstly we will develop use-cases and prototypes [4,5,11] which combine emerging technologies (IPFS, blockchain, DAT, distributed identity) with existing research infrastructure, working towards making research data more FAIR and making research infrastructures simpler, more efficient, and more inherently transparent and trustless.
 
 
 * A parallel strand of development will address the operationalisation of how these technologies might be funded, incentivised, and governed at scale. Again, this strand will combine new concepts and technologies around consensus based incentivisation, mapping token-based technologies to the reputational economy which drive research. However, it will also consider how traditional approaches to funding public good infrastructures can be brought to bear in the short-to-medium term. We believe there is considerable potential in re-allocated the existing, centralised public-good funding that goes into research data management infrastructures, more efficiently leveraging the inherent characteristics of IPFS and related systems.   
 
 
-* A final strand will consider the issue of gaining adoption of distributed web technologies and concepts within the scholarly communications ecosystem, building upon and modifying that ecosystem by seeking to complement it rather than trying to replace it in one fell swoop. Our group is already actively engaged in relevant stakeholder groups such as the Research Data Alliance, engaging with relevant projects such as ResearchObjects and DataCite, and are working towards participation in the European Open Science Cloud initiative.
+* A final strand will consider the issue of gaining adoption of distributed web technologies and concepts within the scholarly communications ecosystem, building upon and modifying that ecosystem by seeking to complement it rather than trying to replace it in one fell swoop. Our group is already actively engaged in relevant stakeholder groups such as the Research Data Alliance (RDA), engaging with relevant projects such as ResearchObjects and DataCite, and are working towards participation in the European Open Science Cloud initiative [7].
 
 
 ## Some core components to be explored further are:
@@ -33,15 +33,15 @@ Broadly speaking, our group will work on progressing matters on three fronts:
 
 * Elaborating and documenting use cases of how the semantics encoded in content-addressed data packages can be indexed and exposed for querying and discovery (the “F”, findability of FAIR)
 
-* The role of distributed ledgers to record an independent, immutable log of interactions with the IPFS cluster described above. This allows contributions to be attributable and to trace the impact of individual contributions directly to the hub without the need for a third party trusted intermediary. [4]
+* The role of distributed ledgers to record an independent, immutable log of interactions with the IPFS cluster [10] described above. This allows contributions to be attributable and to trace the impact of individual contributions directly to the hub without the need for a third party trusted intermediary [4].
 
 * The potential and challenges associated with using smart contracts between scientists to introduce a simplified way of governance of the research cycle. Smart contracts have the potential to lay out the terms of such collaboration, to incentivize contributions to projects and may become a new means of funding research through a tokenized science economy. The protocol would allow any collaborative research cycle application to be implemented on top of e.g. SciDapp [5] etc.
 
 ## Next
 
-* [April 21st–22nd, 2018  The British Library] -- **Decentralised Data Infrastructure for Science** - two days of talks, discussions and workshops. [11]
+* [April 21st–22nd, 2018  The British Library] -- [**Decentralised Data Infrastructure for Science**](https://ti.to/damahub/decentralised-data-infrastructure-for-science) - two days of talks, discussions and workshops. [12]
 
----------------------------------------
+--------
 
 [1] https://ipfs.io
 
@@ -61,4 +61,10 @@ Broadly speaking, our group will work on progressing matters on three fronts:
 
 [10] https://github.com/DaMaHub/ipfs-cluster-demo
 
-[11] https://ti.to/damahub/decentralised-data-infrastructure-for-science
+[11] ChemChain [slides] https://docs.google.com/presentation/d/1TW_nmoVxNd4T8ZybNFS-jloMNCFXOmAB4TMV66vzj9Y/edit?usp=sharing
+
+[12] https://www.doi.org
+
+[13] https://orcid.org
+
+[14] https://ti.to/damahub/decentralised-data-infrastructure-for-science
