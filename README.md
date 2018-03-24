@@ -37,11 +37,19 @@ The potential and challenges associated with using smart contracts between scien
 
 
 [1] https://github.com/scholarc/infrastructure
+
 [2] https://github.com/DaMaHub/v0.01
+
 [3] https://github.com/SciDappSDG/futurehack/wiki/
+
 [4] https://futurehack.io
+
 [5] https://rd-alliance.org/approaches-research-data-packaging-rda-11th-plenary-bof-meeting
+
 [6] Data Packaging Formats https://docs.google.com/document/d/155lA2BcixTl-zwJHGfLkxsmg7WmQbBK00QWyP8QggkE/edit
+
 [7] https://github.com/DaMaHub/ipfs-cluster-demo
+
 [8] ChemChain[slides] https://docs.google.com/presentation/d/1TW_nmoVxNd4T8ZybNFS-jloMNCFXOmAB4TMV66vzj9Y/edit?usp=sharing
+
 [9] https://ec.europa.eu/research/participants/portal/desktop/en/opportunities/h2020/topics/infraeosc-02-2019.html
