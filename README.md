@@ -44,12 +44,21 @@ Broadly speaking, our group will work on progressing matters on three fronts:
 ---------------------------------------
 
 [1] https://ipfs.io
+
 [2] https://datproject.org
+
 [3] https://github.com/scholarc/infrastructure
+
 [4] https://github.com/DaMaHub/v0.01
+
 [5] https://github.com/SciDappSDG/futurehack/wiki/
+
 [6] https://futurehack.io
+
 [7] https://rd-alliance.org/approaches-research-data-packaging-rda-11th-plenary-bof-meeting
+
 [8] Data Packaging Formats https://docs.google.com/document/d/155lA2BcixTl-zwJHGfLkxsmg7WmQbBK00QWyP8QggkE/edit
+
 [10] https://github.com/DaMaHub/ipfs-cluster-demo
+
 [11] https://ti.to/damahub/decentralised-data-infrastructure-for-science
