@@ -41,6 +41,10 @@ Broadly speaking, our group will work on progressing matters on three fronts:
 
 * [April 21st–22nd, 2018  The British Library] -- [**Decentralised Data Infrastructure for Science**](https://ti.to/damahub/decentralised-data-infrastructure-for-science) - two days of talks, discussions and workshops. [12]
 
+## Contact
+
+Email: damahub@pm.me
+
 --------
 
 [1] https://ipfs.io
