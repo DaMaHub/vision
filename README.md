@@ -37,9 +37,9 @@ Broadly speaking, our group will work on progressing matters on three fronts:
 
 * The potential and challenges associated with using smart contracts between scientists to introduce a simplified way of governance of the research cycle. Smart contracts have the potential to lay out the terms of such collaboration, to incentivize contributions to projects and may become a new means of funding research through a tokenized science economy. The protocol would allow any collaborative research cycle application to be implemented on top of e.g. SciDapp [5] etc.
 
-## Next
+---
 
-* [April 21st–22nd, 2018  The British Library] -- [**Decentralised Data Infrastructure for Science**](https://ti.to/damahub/decentralised-data-infrastructure-for-science) - two days of talks, discussions and workshops. [12]
+* [April 21st–22nd, 2018  The British Library] -- [**Decentralised Data Infrastructure for Science**]( https://ti.to/damahub/decentralised-data-infrastructure-for-science) - two days of talks, discussions and workshops. [14,15,16] 
 
 ## Contact
 
@@ -72,3 +72,5 @@ Email: damahub@pm.me
 [13] https://orcid.org
 
 [14] https://ti.to/damahub/decentralised-data-infrastructure-for-science
+
+[15] Audio [+slides] soundcloud.com/damahub/
