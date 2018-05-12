@@ -39,15 +39,15 @@ Broadly speaking, our group will work on progressing matters on three fronts:
 
 ---
 
-* [April 21st–22nd, 2018  The British Library] -- [**Decentralised Data Infrastructure for Science**]( https://ti.to/damahub/decentralised-data-infrastructure-for-science) - two days of talks, discussions and workshops. **Audio (+slides)](https://soundcloud.com/damahub) [14,15] 
+* [April 21st–22nd, 2018  The British Library] -- [**Decentralised Data Infrastructure for Science**]( https://ti.to/damahub/decentralised-data-infrastructure-for-science) - two days of talks, discussions and workshops. **Audio (+slides)](https://soundcloud.com/damahub) [14,15,16] 
 
  * 
 
 ## Contact
 
-Gitter: [DaMaHub](https://gitter.im/DaMaHub/Lobby)
-Twitter: [@DaMaHub](https://twitter.com/DaMaHub/)
-Email: damahub@pm.me
+* Gitter: [DaMaHub](https://gitter.im/DaMaHub/Lobby)
+* Twitter: [@DaMaHub](https://twitter.com/DaMaHub/)
+* Email: damahub@pm.me
 
 
 --------
@@ -79,3 +79,5 @@ Email: damahub@pm.me
 [14] https://ti.to/damahub/decentralised-data-infrastructure-for-science
 
 [15] Decentralised Data Infrastructure for Science, British Library, 21-22 April 2018, Audio [+slides]  https://soundcloud.com/damahub
+
+[16] Decentralised Data Infrastructure for Science, British Library, 21-22 April 2018, Shared Folder https://drive.google.com/drive/folders/1QQR2f_pFnHSdpdRa5Tg2W8WoRsTl-51i
