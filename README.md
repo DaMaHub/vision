@@ -48,6 +48,7 @@ Broadly speaking, our group will work on progressing matters on three fronts:
 * Gitter: [DaMaHub](https://gitter.im/DaMaHub/Lobby)
 * Twitter: [@DaMaHub](https://twitter.com/DaMaHub/)
 * Email: damahub@pm.me
+* www: [damahub.org](http://damahub.org)
 
 
 --------
